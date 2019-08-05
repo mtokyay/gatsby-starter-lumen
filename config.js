@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://mehmettokyay.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Mehmet Tokyay',
+  subtitle: 'Book, Movie, Junior Developer.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-145048816-1',
   menu: [
     {
       label: 'Articles',
@@ -24,9 +24,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Mehmet Tokyay',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Book, Movie, Junior Developer.',
     contacts: {
       email: '#',
       telegram: '#',
